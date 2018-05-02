@@ -1,6 +1,7 @@
 # react-parcel
 ## 1. what
-`parcelによってmodule管理を丸投げして環境構築するぜ！`
+1. parcelによってmodule管理を丸投げして環境構築するぜ！
+2. 今回の例ではローダーとしてbabelを経由しているのでトランスパイルもおまかせ！
 ## 2. first
 * 依存データのインストール
 > npm install
