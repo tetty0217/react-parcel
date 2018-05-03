@@ -5,6 +5,8 @@
 ### 構造
 * stylesにcss、appに各種jsファイルとindex.htmlがあるよ
 * distにまるっと吐き出されます
+### 前提
+* nodeが入っていること（npm叩ける？）
 ## 2. first
 * 依存データのインストール
 > cd react-parcel
@@ -14,7 +16,7 @@
 * parcelの確認
 > parcel 
 * エラーについては[公式](https://parceljs.org/getting_started.html)を見てくれよな！
-## 4. fourth
+## 4. third
 * npm経由でparcel実行の確認
 > npm start
 
