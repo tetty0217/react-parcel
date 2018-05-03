@@ -4,6 +4,7 @@
 2. 今回の例ではローダーとしてbabelを経由しているのでトランスパイルもおまかせ！
 ## 2. first
 * 依存データのインストール
+> cd react-parcel
 > npm install
 ## 3. second
 * parcelの確認
