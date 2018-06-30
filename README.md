@@ -1,5 +1,5 @@
 # react-parcel
-## 1. what
+## what
 1. parcelによってmodule管理を丸投げして環境構築するぜ！
 2. 今回の例ではローダーとしてbabelを経由しているのでトランスパイルもおまかせ！
 ### 構造
@@ -7,16 +7,16 @@
 * distにまるっと吐き出されます
 ### 前提
 * nodeが入っていること（npm叩ける？）
-## 2. first
+## First
 * 依存データのインストール
 > cd react-parcel
 
 > npm install
-## 3. second
+## Second
 * parcelの確認
 > parcel 
 * エラーについては[公式](https://parceljs.org/getting_started.html)を見てくれよな！
-## 4. third
+## Third
 * npm経由でparcel実行の確認
 > npm start
 
